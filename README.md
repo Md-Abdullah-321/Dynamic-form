@@ -1,8 +1,29 @@
-# React + Vite
+# React Form Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the React Form Project! This project showcases a form created using React and styled-components. The form is securely validated to ensure accurate and safe user input.
 
-Currently, two official plugins are available:
+You can view the live demo of the form on [https://react-form-version-01.netlify.app/](https://react-form-version-01.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub Repository: [https://github.com/Md-Abdullah-321/Dynamic-form](https://github.com/Md-Abdullah-321/Dynamic-form)
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Secure form validation to prevent invalid or malicious input.
+- User-friendly design with styled-components for a modern and clean look.
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Md-Abdullah-321/Dynamic-form.git
+   cd Dynamic-form
